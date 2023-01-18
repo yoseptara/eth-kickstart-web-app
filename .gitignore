@@ -1,0 +1,9 @@
+# Next.js
+/.next
+/node_modules
+/out
+
+# Solidity
+/build
+/contracts/*.sol.js
+/contracts/*.sol.js.map
